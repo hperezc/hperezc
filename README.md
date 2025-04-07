@@ -28,7 +28,7 @@ me.say_hi()
 ## 💻 Stack Tecnológico
 
 ### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-★★★-yellow)
+![Python](https://img.shields.io/badge/Python-★★★★-yellow)
 ![R](https://img.shields.io/badge/R-★★★-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★-orange)
 ![SQL](https://img.shields.io/badge/SQL-★★★-green)
@@ -56,20 +56,40 @@ me.say_hi()
 ## 📚 Proyectos Destacados
 
 ### [TRIGRS](https://github.com/hperezc/TRIGRS)
-Modelo numérico para análisis de estabilidad de taludes y susceptibilidad a deslizamientos.
+Modelo computacional que evalúa la estabilidad de laderas considerando la infiltración transitoria de lluvia.
 - 🔧 Python | NumPy | SIG
 - 📊 Modelación Numérica
 - 🌧️ Análisis de Infiltración
 
-### [Otros Proyectos Relevantes]
-- 🤖 Clasificación de imágenes satelitales con Deep Learning
-- 🗺️ Herramientas de procesamiento geoespacial
-- 📊 Aplicaciones web para visualización de datos geológicos
+### [Sistema GRD-CRCSA](https://github.com/hperezc/sistema-grd-crcsa)
+Sistema web para la Cruz Roja Colombiana Seccional Antioquia para evaluar la madurez en gestión del riesgo empresarial.
+- 💻 Python | Django
+- 📊 Análisis de Datos
+- 🔄 Gestión de Riesgos
+
+### [Forest Fire Risk Analysis](https://github.com/hperezc/forest-fire-risk-analysis)
+Aplicación Dash para análisis de susceptibilidad y peligro de incendios forestales.
+- 🔥 Python | Dash
+- 🗺️ Análisis Geoespacial
+- 📈 Modelación de Riesgos
+
+### [Hazard Event Query App](https://github.com/hperezc/hazard-event-query-app)
+Aplicación para consulta de eventos de riesgo en municipios colombianos, integrando UNGRD, DAGRAN y SIMMA.
+- 🔍 Python | FastAPI
+- 📊 Visualización de Datos
+- 🗃️ Integración de Fuentes
+
+### [Proyecto Meseri](https://github.com/hperezc/Proyecto_Meseri)
+Sistema para análisis del modelo MESERI para incendios estructurales con dashboard integrado.
+- 🏢 Jupyter Notebook
+- 📊 Análisis de Datos
+- 🔥 Evaluación de Riesgos
 
 ## 📫 Conectemos
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hector-camilo-perez-contreras-a971551a1/)
-- 📧 [Email](hectorcperez21@gmail.com)
+- 📧 [Email](mailto:hectorcperez21@gmail.com)
+- 🌐 [GitHub](https://github.com/hperezc)
 
 ## 📈 Estadísticas de GitHub
 
@@ -80,4 +100,3 @@ Modelo numérico para análisis de estabilidad de taludes y susceptibilidad a de
 <div align="center">
   <i>🌟 "Combinando Geología, Tecnología y Ciencia de Datos para entender mejor nuestro planeta" 🌍</i>
 </div>
-
